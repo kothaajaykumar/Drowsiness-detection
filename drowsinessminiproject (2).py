@@ -16,7 +16,7 @@ import matplotlib.pyplot as plt
 # In[29]:
 
 
-os.chdir("C:\\Users\\vetsa\\PycharmProjects\\pythonProject\\Opencvtest")
+os.chdir("C:\\Users\\kotha\\PycharmProjects\\pythonProject\\Opencvtest")
 
 
 # In[30]:
